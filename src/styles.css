@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+html, body {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .bg-img {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background: url('https://picsum.photos/200/300/?gravity=east') center center no-repeat;
+    background-size: cover;
+    
+  }
